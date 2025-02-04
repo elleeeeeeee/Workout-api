@@ -1,0 +1,160 @@
+Push-Ups
+
+Description: A classic bodyweight exercise targeting the chest, shoulders, and triceps.
+Performing Instructions: Start in a plank position, lower your body by bending your arms, then push back up to the starting position.
+Target Muscles: Chest, shoulders, triceps.
+Duration: 3 sets of 10-15 repetitions.
+Rest Between Sets: 60 seconds.
+Exercise Type: Strength Training.
+Squats
+
+Description: Compound lower body exercise targeting the quadriceps, hamstrings, and glutes.
+Performing Instructions: Stand with feet shoulder-width apart, squat down by bending your knees and hips, then return to standing.
+Target Muscles: Quadriceps, hamstrings, glutes.
+Duration: 3 sets of 12-15 repetitions.
+Rest Between Sets: 60 seconds.
+Exercise Type: Strength Training.
+Plank
+
+Description: Core-strengthening exercise engaging the abdominals, back, and shoulders.
+Performing Instructions: Start in a push-up position with elbows bent and forearms resting on the ground, hold the position with a straight body.
+Target Muscles: Core, shoulders, back.
+Duration: Hold for 30-60 seconds.
+Rest Between Sets: 30 seconds.
+Exercise Type: Core Strengthening.
+Lunges
+
+Description: Lower body exercise targeting the quadriceps, hamstrings, and glutes, as well as improving balance.
+Performing Instructions: Step forward with one leg and lower your body until both knees are bent at 90-degree angles, then return to the starting position.
+Target Muscles: Quadriceps, hamstrings, glutes.
+Duration: 3 sets of 10-12 repetitions per leg.
+Rest Between Sets: 60 seconds.
+Exercise Type: Strength Training.
+Deadlifts
+
+Description: Compound exercise targeting the posterior chain muscles including the hamstrings, glutes, and lower back.
+Performing Instructions: Stand with feet hip-width apart, hinge at the hips and knees to lower the barbell towards the ground, then return to standing.
+Target Muscles: Hamstrings, glutes, lower back.
+Duration: 3 sets of 8-10 repetitions.
+Rest Between Sets: 90 seconds.
+Exercise Type: Strength Training.
+Pull-Ups
+
+Description: Upper body exercise targeting the back, biceps, and shoulders.
+Performing Instructions: Hang from a pull-up bar with hands slightly wider than shoulder-width apart, pull yourself up until your chin clears the bar, then lower back down.
+Target Muscles: Back, biceps, shoulders.
+Duration: As many repetitions as possible for 3 sets.
+Rest Between Sets: 60-90 seconds.
+Exercise Type: Strength Training.
+Russian Twists
+
+Description: Core exercise focusing on the obliques and improving rotational stability.
+Performing Instructions: Sit on the floor with knees bent and feet lifted off the ground, lean back slightly and twist your torso from side to side, touching the ground with a weight or hands.
+Target Muscles: Obliques, core.
+Duration: 3 sets of 12-15 twists per side.
+Rest Between Sets: 45 seconds.
+Exercise Type: Core Strengthening.
+Bench Press
+
+Description: Upper body exercise targeting the chest, shoulders, and triceps.
+Performing Instructions: Lie on a bench with a barbell above your chest, lower the barbell towards your chest, then push it back up to the starting position.
+Target Muscles: Chest, shoulders, triceps.
+Duration: 3 sets of 8-10 repetitions.
+Rest Between Sets: 90 seconds.
+Exercise Type: Strength Training.
+Bicep Curls
+
+Description: Isolation exercise targeting the biceps.
+Performing Instructions: Stand with feet shoulder-width apart, hold dumbbells at your sides with palms facing forward, curl the dumbbells up towards your shoulders, then lower them back down.
+Target Muscles: Biceps.
+Duration: 3 sets of 10-12 repetitions.
+Rest Between Sets: 45 seconds.
+Exercise Type: Strength Training.
+Tricep Dips
+
+Description: Bodyweight exercise targeting the triceps.
+Performing Instructions: Grip the edge of a bench or parallel bars with hands shoulder-width apart, lower your body by bending your elbows, then push back up to the starting position.
+Target Muscles: Triceps.
+Duration: 3 sets of 12-15 repetitions.
+Rest Between Sets: 60 seconds.
+Exercise Type: Strength Training.
+Mountain Climbers
+
+Description: Dynamic core exercise with cardiovascular benefits.
+Performing Instructions: Start in a plank position, alternate bringing your knees towards your chest in a running motion while keeping your core engaged.
+Target Muscles: Core, shoulders, legs, cardiovascular system.
+Duration: 1 minute.
+Rest Between Sets: 30 seconds.
+Exercise Type: Cardiovascular Exercise.
+Flutter Kicks
+
+Description: Core exercise targeting the lower abs and hip flexors.
+Performing Instructions: Lie on your back with legs extended and hands under your glutes, lift your legs a few inches off the ground and alternately kick them up and down in a fluttering motion.
+Target Muscles: Lower abs, hip flexors.
+Duration: 3 sets of 20-30 seconds.
+Rest Between Sets: 45 seconds.
+Exercise Type: Core Strengthening.
+Shoulder Press
+
+Description: Upper body exercise targeting the shoulders and triceps.
+Performing Instructions: Stand or sit with dumbbells at shoulder height, palms facing forward, press the dumbbells overhead until arms are fully extended, then lower them back down.
+Target Muscles: Shoulders, triceps.
+Duration: 3 sets of 8-10 repetitions.
+Rest Between Sets: 60 seconds.
+Exercise Type: Strength Training.
+Russian Deadlift
+
+Description: Variation of the deadlift focusing on hamstring and lower back activation.
+Performing Instructions: Stand with feet hip-width apart, hold a kettlebell or dumbbells in front of your thighs, hinge at the hips and lower the weight towards the ground while keeping your back straight, then return to standing.
+Target Muscles: Hamstrings, lower back.
+Duration: 3 sets of 10-12 repetitions.
+Rest Between Sets: 60 seconds.
+Exercise Type: Strength Training.
+Box Jumps
+
+Description: Plyometric exercise targeting lower body power and explosiveness.
+Performing Instructions: Jump onto a sturdy box or platform from a standing position, then step back down and repeat.
+Target Muscles: Quadriceps, hamstrings, glutes.
+Duration: 3 sets of 8-10 repetitions.
+Rest Between Sets: 60 seconds.
+Exercise Type: Plyometric Exercise.
+Burpees
+
+Description: Full-body exercise combining a squat, push-up, and jump.
+Performing Instructions: Start in a standing position, squat down, kick legs back into a plank, do a push-up, return to squat, then jump explosively.
+Target Muscles: Full body, cardiovascular system.
+Duration: 3 sets of 10 repetitions.
+Rest Between Sets: 60 seconds.
+Exercise Type: Strength Training/Cardiovascular Exercise.
+Renegade Rows
+
+Description: Compound exercise targeting the back, shoulders, and core.
+Performing Instructions: Start in a plank position with hands gripping dumbbells, row one dumbbell up towards your hip while stabilizing your body with the other arm, then alternate sides.
+Target Muscles: Back, shoulders, core.
+Duration: 3 sets of 10-12 repetitions per arm.
+Rest Between Sets: 60 seconds.
+Exercise Type: Strength Training.
+Leg Raises
+
+Description: Core exercise targeting the lower abs.
+Performing Instructions: Lie on your back with legs extended, lift your legs towards the ceiling while keeping them straight, then slowly lower them back down without letting them touch the ground.
+Target Muscles: Lower abs.
+Duration: 3 sets of 12-15 repetitions.
+Rest Between Sets: 45 seconds.
+Exercise Type: Core Strengthening.
+Jumping Jacks
+
+Description: Full-body cardiovascular exercise.
+Performing Instructions: Start standing with feet together, then jump while spreading arms and legs wide, return to starting position.
+Target Muscles: Full body, cardiovascular system.
+Duration: 3 sets of 1 minute.
+Rest Between Sets: 30 seconds.
+Exercise Type: Cardiovascular Exercise.
+Dumbbell Flyes
+
+Description: Isolation exercise targeting the chest muscles.
+Performing Instructions: Lie on a bench with a dumbbell in each hand, palms facing inward, lower the dumbbells out to the sides in a wide arc until your chest feels stretched, then bring them back together over your chest.
+Target Muscles: Chest.
+Duration: 3 sets of 10-12 repetitions.
+Rest Between Sets: 60 seconds.
+Exercise Type: Strength Training.
